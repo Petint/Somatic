@@ -8,13 +8,13 @@ See the project in action at https://www.youtube.com/watch?v=6raRftH9yxM!
 The Somatic project's priorities are:
 * Control any wearable computer with a heads-up display
 * Ready to use all day, instantly, with no Internet
-* Doesn't cause fatigue or interfere with other tasks
 * Fast enough to do a quick search in less than 10 seconds
 
 The Somatic does not:
+* Use any cloud services at all
 * Reproduce your hand in 3-D space
 * Let you type on a virtual keyboard
-* Use any cloud services at all
+* Cause fatigue or interfere with other tasks
 
 The project is still in a pretty rough state. If I revisit the project, the priorities are:
 * Lay out and fab circuit board
